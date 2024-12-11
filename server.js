@@ -78,7 +78,7 @@ const data = [
     },
     {
         id: 12,
-        img_url: 'https://github.com/PatelNeelMahesh/frontend_tasks/blob/main/02.youtube-clone/assets/Thumb',
+        img_url: 'https://github.com/PatelNeelMahesh/frontend_tasks/blob/main/02.youtube-clone/assets/Thumbnail-3.png?raw=true',
     }
 ];
 
